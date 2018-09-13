@@ -1,1 +1,4 @@
-
+discord
+asyncio
+youtube-dl
+PyNaCl
